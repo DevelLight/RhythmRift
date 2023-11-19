@@ -1,9 +1,6 @@
-# RhythmRift
-RhythmRift is a plugin sync server that allows you to seamlessly synchronize your music plugins across multiple devices.
-
 <p align="center">
  <img width="140px" src="https://github.com/DevelLight/RhythmRift/blob/main/RhythmRift_Logo_cinematic_poster_painting_il-removebg-preview.png" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">OpenSource VoiceAssitant Javi</h2>
+ <h2 align="center">RhythmRift</h2>
  <p align="center">RhythmRift is a plugin sync server that allows you to seamlessly synchronize your music plugins across multiple devices.</p>
 </p>
   <p align="center">
